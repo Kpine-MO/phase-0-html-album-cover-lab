@@ -89,6 +89,7 @@ img {
   -moz-box-shadow: 0 2px 3px black;
   -webkit-box-shadow: 0 2px 3px black;
   box-shadow: 0 2px 3px black;
+  font-size: small;
 }
 
 #front {
@@ -109,4 +110,5 @@ img {
   background: rgba(247,211,27,1);
   margin-left: 163px;
   padding-top: 25px;
+  font-size: small;
 }
